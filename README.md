@@ -1,7 +1,7 @@
 # AssignmentLab
 WORKLOAD:
-ROFIDA: PATIENT CLASS AND IDEA OF SORTING
-OMAR : QUEUESYSTEM AS WELL AS THE RANDOMIATION OF PATIENTS
+           ROFIDA: PATIENT CLASS AND IDEA OF SORTING
+          OMAR : QUEUESYSTEM AS WELL AS THE RANDOMIATION OF PATIENTS
 This project is made for patient queueing system depeneding on two factors the type (Urguent or Normal) and arrival time of the patient themselves. 
 It needs a Patient class to store data of the patients (ID, GENDER, ARRIVAL TIME , TYPE) 
 It needs a Queueing system which would help in identifying the type of patient as well as putting patients in there suitable Queue
